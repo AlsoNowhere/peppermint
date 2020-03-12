@@ -1,0 +1,16 @@
+{
+    "name": "explorer",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "rollup --config"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "rollup": "^1.31.0",
+        "rollup-plugin-progress": "^1.1.1",
+        "rollup-plugin-uglify": "^6.0.4"
+    }
+}
